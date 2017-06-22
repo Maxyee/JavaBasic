@@ -8,7 +8,7 @@ public class Start_and_end_method {
 	private static final String REGEX = "\\bcat\\b";
 	private static final String INPUT = "cat cat cat cattie cat";
 	
-	public static void main(String args[])
+	public static void main(String[] args)
 	{
 		Pattern p = Pattern.compile(REGEX);
 		Matcher m = p.matcher(INPUT);

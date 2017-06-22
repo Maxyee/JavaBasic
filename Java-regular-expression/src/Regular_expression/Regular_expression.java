@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 
 public class Regular_expression {
 	
-	public static void main(String args[])
+	public static void main(String[] args)
 	{
 		String line = "This order was placed for QT3000! OK?";
 		String pattern = "(.*)(\\d+)(.*)";

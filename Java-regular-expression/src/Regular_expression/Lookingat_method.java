@@ -9,7 +9,7 @@ public class Lookingat_method {
 	private static Pattern pattern;
 	private static Matcher matcher;
 	
-	public static void main(String args[])
+	public static void main(String[] args)
 	{
 		pattern = Pattern.compile(REGEX);
 		matcher = pattern.matcher(INPUT);
