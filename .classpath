@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="Java-regular-expression/src"/>
+	<classpathentry kind="src" path="JavaMethods"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="Java-regular-expression/bin"/>
 </classpath>
